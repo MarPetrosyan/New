@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 28 13:04:22 AMT 2023","Wed Jun 28 13:05:54 AMT 2023","91461","","testingIOS.Qase.ioIOS.Onboarding","","testingIOS.Qase.ioIOS.Onboarding","OnboardingSkipButton","OnboardingSkipButton()","Clicking on Skip Button"
+"passed","Wed Jun 28 13:02:47 AMT 2023","Wed Jun 28 13:04:22 AMT 2023","95177","","testingIOS.Qase.ioIOS.Onboarding","","testingIOS.Qase.ioIOS.Onboarding","OnboardingNextButton","OnboardingNextButton()","Check Onboarding"
+"passed","Wed Jun 28 13:00:50 AMT 2023","Wed Jun 28 13:02:47 AMT 2023","117188","","testingIOS.Qase.ioIOS.Onboarding","","testingIOS.Qase.ioIOS.Onboarding","ОnBoardingScrollingPagination","ОnBoardingScrollingPagination()","Scrolling through pagination"

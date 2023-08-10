@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Mariams-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "5677@Mariams-MacBook-Pro.local.Test worker(1)",
+      "children" : [ {
+        "name" : "OnboardingSkipButton()",
+        "uid" : "b6461cdef9ab8c35",
+        "parentUid" : "bf15e7ac94d6e74eeeb8ab3e5a141b05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687943062848,
+          "stop" : 1687943154309,
+          "duration" : 91461
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "OnboardingNextButton()",
+        "uid" : "d7f0fb739b70abef",
+        "parentUid" : "bf15e7ac94d6e74eeeb8ab3e5a141b05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687942967616,
+          "stop" : 1687943062793,
+          "duration" : 95177
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ОnBoardingScrollingPagination()",
+        "uid" : "3311c71e93c60c29",
+        "parentUid" : "bf15e7ac94d6e74eeeb8ab3e5a141b05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687942850105,
+          "stop" : 1687942967293,
+          "duration" : 117188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf15e7ac94d6e74eeeb8ab3e5a141b05"
+    } ],
+    "uid" : "98eaad23546d870b1a5b499fecc98867"
+  } ]
+}

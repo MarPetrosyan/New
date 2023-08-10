@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "ОnBoardingScrollingPagination()",
+    "uid" : "3311c71e93c60c29",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1687942850105,
+      "stop" : 1687942967293,
+      "duration" : 117188
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "OnboardingNextButton()",
+    "uid" : "d7f0fb739b70abef",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1687942967616,
+      "stop" : 1687943062793,
+      "duration" : 95177
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "OnboardingSkipButton()",
+    "uid" : "b6461cdef9ab8c35",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1687943062848,
+      "stop" : 1687943154309,
+      "duration" : 91461
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

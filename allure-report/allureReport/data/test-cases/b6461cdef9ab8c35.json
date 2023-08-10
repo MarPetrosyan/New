@@ -1,0 +1,129 @@
+{
+  "uid" : "b6461cdef9ab8c35",
+  "name" : "OnboardingSkipButton()",
+  "fullName" : "testingIOS.Qase.ioIOS.Onboarding.OnboardingSkipButton",
+  "historyId" : "b7f803a3be1373a3a6a26d027aba11b1",
+  "time" : {
+    "start" : 1687943062848,
+    "stop" : 1687943154309,
+    "duration" : 91461
+  },
+  "description" : "Clicking on Skip Button",
+  "descriptionHtml" : "<p>Clicking on Skip Button</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1687943062849,
+      "stop" : 1687943151425,
+      "duration" : 88576
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Clicking on Skip Button",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Clicking on Skip Button",
+      "time" : {
+        "start" : 1687943151445,
+        "stop" : 1687943153266,
+        "duration" : 1821
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Clicking on Skip Button",
+        "time" : {
+          "start" : 1687943151453,
+          "stop" : 1687943153266,
+          "duration" : 1813
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1687943153268,
+      "stop" : 1687943154304,
+      "duration" : 1036
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Mariams-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "5677@Mariams-MacBook-Pro.local.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "testingIOS.Qase.ioIOS.Onboarding"
+  }, {
+    "name" : "testClass",
+    "value" : "testingIOS.Qase.ioIOS.Onboarding"
+  }, {
+    "name" : "testMethod",
+    "value" : "OnboardingSkipButton"
+  }, {
+    "name" : "suite",
+    "value" : "testingIOS.Qase.ioIOS.Onboarding"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6461cdef9ab8c35.json",
+  "parameterValues" : [ ]
+}
